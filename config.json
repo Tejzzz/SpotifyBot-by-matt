@@ -1,7 +1,7 @@
 {
-  "Token": ODg5NTcxNjE5OTY4NzgyMzU2.YUjMIQ.TZ42LD0SV7MwdXvQGdQj_bhDZak,
-  "Prefix": !,
-  "Channel": general,
-  "AdministratorRole": JOD,
-  "StockChannel": off-topic
+  "Token": "ODg5NTcxNjE5OTY4NzgyMzU2.YUjMIQ.TZ42LD0SV7MwdXvQGdQj_bhDZak",
+  "Prefix": "!",
+  "Channel": "general",
+  "AdministratorRole": "JOD",
+  "StockChannel": "off-topic"
 }
